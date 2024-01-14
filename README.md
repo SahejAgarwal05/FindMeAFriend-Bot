@@ -15,7 +15,7 @@ This comprehensive Python script aims to create a social media-like experience o
    - `telebot.TeleBot('TELEGRAM BOT TOKEN')`
    - `MongoClient('MONGO DB Token')`
 
-2. Install required libraries using `pip install telebot pymongo`.
+2. Install required libraries using `pip install python-telegram-bot pymongo google-generativeai telebot`.
 
 ## Script Overview
 
